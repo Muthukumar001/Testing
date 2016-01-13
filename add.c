@@ -4,7 +4,7 @@
 #include "add.h"
 
 
-
+/*
 int main()
 {
 	int a = 0, b = 0, c = 0;
@@ -14,7 +14,7 @@ int main()
 	printf("Addition : %d",c);
 	return(0);
 }
-
+*/
 
 
 int add(int x, int y)
