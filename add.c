@@ -1,4 +1,4 @@
-//addinh ghkm,khk
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "add.h"
